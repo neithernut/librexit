@@ -60,7 +60,6 @@ const char* member_states[] = {
     "Poland",
     "Portugal",
     "Romania",
-    "Scotland",
     "Slovakia",
     "Slovenia",
     "Spain",
